@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SmugSanae
+- SmugSanae's the name, nothing in particular's the game.
 - Interests include programming, gaming, and looking for ways to combine those two interests to make a living.
 - I’m currently learning a couple of languages, but C++ is my priority.
 - I'm hoping to land a job as an IT specialist, and eventually moving my way up to sysadmin after a couple years.
