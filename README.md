@@ -3,7 +3,6 @@
 - I’m currently learning a couple of languages, but C++ is my priority.
 - I'm hoping to land a job as an IT specialist, and eventually moving my way up to sysadmin after a couple years.
 - More to be added at a later date...
-Interests include programming, gaming,  .
 
 <!---
 SmugSanae/SmugSanae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
